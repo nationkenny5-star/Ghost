@@ -1,0 +1,17 @@
+aiofiles
+fastapi
+guessit
+httpx
+motor
+parse-torrent-title
+pymediainfo
+pyrofork
+rapidfuzz
+python-dotenv
+pytz
+tgcrypto
+themoviedb
+uvicorn
+uv
+uvloop
+httptools
